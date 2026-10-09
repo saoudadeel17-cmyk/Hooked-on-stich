@@ -19,7 +19,7 @@ export default function OrderForm({ product }) {
     e.preventDefault()
     const fd = new FormData(e.target)
     const ref = fd.get('ref')
-    if (ref && ref.size > 5e6) return setState({ s: 'err', msg: 'Reference photo must be under 5 MB.' })
+    if (ref && ref.size > 4e6) return setState({ s: 'err', msg: 'Reference photo must be under 4 MB.' })
     fd.append('productId', product.id)
     setState({ s: 'busy' })
     try {

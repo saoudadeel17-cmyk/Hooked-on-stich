@@ -1,5 +1,4 @@
-import fs from 'fs/promises'
-import path from 'path'
+import { saveImage } from '../../../lib/storage'
 import { getProducts, getOrders, saveOrders } from '../../../lib/db'
 import { sendOrderEmails } from '../../../lib/mail'
 
@@ -25,11 +24,8 @@ export async function POST(req) {
   const file = fd.get('ref')
   if (file && typeof file === 'object' && file.size > 0) {
     const ext = { 'image/jpeg': 'jpg', 'image/png': 'png', 'image/webp': 'webp' }[file.type]
-    if (!ext || file.size > 5e6) return Response.json({ error: 'Reference photo must be a JPG/PNG/WEBP under 5 MB.' }, { status: 400 })
-    const dir = path.join(process.cwd(), 'public/uploads/orders')
-    await fs.mkdir(dir, { recursive: true })
-    await fs.writeFile(path.join(dir, `${id}.${ext}`), Buffer.from(await file.arrayBuffer()))
-    refImage = `/uploads/orders/${id}.${ext}`
+    if (!ext || file.size > 4e6) return Response.json({ error: 'Reference photo must be a JPG/PNG/WEBP under 4 MB.' }, { status: 400 })
+    refImage = await saveImage(Buffer.from(await file.arrayBuffer()), `orders/${id}.${ext}`, file.type)
   }
   const order = {
     id, createdAt: new Date().toISOString(), status: 'Pending',

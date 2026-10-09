@@ -1,280 +1,280 @@
 [
-  {
-    "id": "jasmine-gajra-scrunchie-set",
-    "name": "Jasmine Gajra Scrunchie Set",
-    "price": 1500,
-    "category": "Hair Accessories",
-    "short": "Cloud-soft crochet scrunchies inspired by fresh jasmine gajras, finished with hand-stitched green leaves.",
-    "description": "Our Jasmine Gajra Scrunchies capture the beauty of fresh mogra flowers in yarn that never wilts. Every cluster of tiny petals is crocheted by hand, one popcorn stitch at a time, then finished with a tie of deep green leaves.\nThey sit gently on the wrist or wrap a bun, a ponytail or a braid, and look stunning with festive outfits, mehndi functions and Eid. Presented in a woven basket, the set makes a lovely gift.",
-    "details": [
-      {
-        "label": "Material",
-        "value": "Soft premium acrylic-cotton blend yarn"
-      },
-      {
-        "label": "Colours",
-        "value": "Ivory white with green leaves (red rose option on request)"
-      },
-      {
-        "label": "Fits",
-        "value": "Stretchy elastic, suits hair and wrist"
-      },
-      {
-        "label": "Care",
-        "value": "Hand wash cold, dry flat"
-      },
-      {
-        "label": "Lead time",
-        "value": "2–4 working days"
-      }
-    ],
-    "features": [
-      "100% handmade, no two pieces identical",
-      "Lightweight and comfortable all day",
-      "Gift-ready presentation",
-      "Custom colours available"
-    ],
-    "images": [
-      "/products/p1.jpg"
-    ],
-    "inStock": true,
-    "sizeLabel": "Bangle / wrist size",
-    "sizes": [
-      "2.2 (Small)",
-      "2.4 (Medium)",
-      "2.6 (Large)",
-      "2.8 (Extra large)"
-    ]
-  },
-  {
-    "id": "floral-braid-paranda",
-    "name": "Floral Braid Paranda",
-    "price": 900,
-    "category": "Hair Accessories",
-    "images": [
-      "/products/p2.jpg"
-    ],
-    "inStock": true,
-    "short": "A trail of tiny crochet blossoms and a vivid green tassel to dress up any braid.",
-    "description": "Inspired by traditional paranda and floral hair jewellery, this piece weaves delicate white crochet flowers and green buds along the length of your braid, ending in a handmade yarn tassel with pearl detail.\nIt stays light, never pulls on the hair, and adds an instant festive touch to shalwar kameez, lehnga or a simple everyday kurta.",
-    "details": [
-      {
-        "label": "Material",
-        "value": "Fine cotton yarn, pearl beads"
-      },
-      {
-        "label": "Length",
-        "value": "Approx. 18 inches including tassel"
-      },
-      {
-        "label": "Colours",
-        "value": "White blossoms, green leaves and tassel"
-      },
-      {
-        "label": "Care",
-        "value": "Spot clean, keep away from perfume"
-      },
-      {
-        "label": "Lead time",
-        "value": "3–5 working days"
-      }
-    ],
-    "features": [
-      "Perfect for Eid, weddings and mehndi",
-      "Easy to attach with ties",
-      "Tassel colour can be matched to your outfit",
-      "Handmade to order"
-    ],
-    "sizeLabel": "",
-    "sizes": []
-  },
-  {
-    "id": "gajra-bracelet",
-    "name": "Gajra Bracelet",
-    "price": 700,
-    "category": "Jewellery",
-    "images": [
-      "/products/p3.jpg"
-    ],
-    "inStock": true,
-    "short": "A plush, jasmine-inspired crochet bracelet in creamy white, light as a flower.",
-    "description": "This chunky gajra bracelet is built from dozens of tiny textured pom-pom stitches that look just like clustered jasmine buds. It feels soft against the skin and is made with an elastic core, so it slips on easily and stays put.\nWear it alone for a clean, elegant look or stack it with bangles and gold jewellery for festive occasions.",
-    "details": [
-      {
-        "label": "Material",
-        "value": "Soft cotton-blend yarn, elastic core"
-      },
-      {
-        "label": "Size",
-        "value": "Stretches to fit most wrists"
-      },
-      {
-        "label": "Colour",
-        "value": "Cream white with green leaf accent"
-      },
-      {
-        "label": "Care",
-        "value": "Hand wash gently, air dry"
-      },
-      {
-        "label": "Lead time",
-        "value": "2–3 working days"
-      }
-    ],
-    "features": [
-      "Comfortable stretch fit",
-      "Pairs beautifully with bangles",
-      "Light enough for all-day wear",
-      "Makes a thoughtful gift"
-    ],
-    "sizeLabel": "Bangle / wrist size",
-    "sizes": [
-      "2.2 (Small)",
-      "2.4 (Medium)",
-      "2.6 (Large)",
-      "2.8 (Extra large)"
-    ]
-  },
-  {
-    "id": "bow-crochet-bag",
-    "name": "Bow Crochet Shoulder Bag",
-    "price": 3200,
-    "category": "Bags",
-    "images": [
-      "/products/p4.jpg"
-    ],
-    "inStock": true,
-    "short": "A sturdy cream shoulder bag in chunky cotton cord, finished with a berry-coloured bow.",
-    "description": "Made from thick, tightly worked cotton cord, this shoulder bag keeps its shape and carries your daily essentials with ease. The contrasting berry rim and hand-crocheted bow add a quiet pop of colour, and the double rope handles sit comfortably on the shoulder.\nA detachable key ring on the bow lets you clip on a keychain or charm. Wear it with abayas, kurtas or casual outfits.",
-    "details": [
-      {
-        "label": "Material",
-        "value": "Chunky cotton cord"
-      },
-      {
-        "label": "Size",
-        "value": "Approx. 24 cm wide × 22 cm high"
-      },
-      {
-        "label": "Handle drop",
-        "value": "Approx. 28 cm"
-      },
-      {
-        "label": "Colours",
-        "value": "Cream with berry bow (other colours on request)"
-      },
-      {
-        "label": "Care",
-        "value": "Spot clean, do not machine wash"
-      },
-      {
-        "label": "Lead time",
-        "value": "5–7 working days"
-      }
-    ],
-    "features": [
-      "Holds phone, wallet, keys and more",
-      "Strong double handles",
-      "Detachable bow key ring",
-      "Made to order in your colours"
-    ],
-    "sizeLabel": "Bag size",
-    "sizes": [
-      "Small (approx. 20 × 18 cm)",
-      "Medium (approx. 24 × 22 cm)",
-      "Large (approx. 30 × 26 cm)"
-    ]
-  },
-  {
-    "id": "rose-bucket-bag",
-    "name": "Rose Bucket Bag",
-    "price": 3800,
-    "category": "Bags",
-    "images": [
-      "/products/p5.jpg"
-    ],
-    "inStock": true,
-    "short": "A romantic cream bucket bag crowned with a ring of hand-crocheted red roses.",
-    "description": "Our signature Rose Bucket Bag is worked in a rich textured stitch and gathers softly at the top, where a garland of deep red crochet roses and green leaves forms a beautiful floral border.\nIt comes with a long crossbody strap that attaches with silver clasps, so you can wear it on the shoulder or across the body. Dressy enough for dawats and weddings, easy enough for everyday.",
-    "details": [
-      {
-        "label": "Material",
-        "value": "Soft cotton-blend yarn, metal clasps"
-      },
-      {
-        "label": "Size",
-        "value": "Approx. 26 cm wide × 20 cm high"
-      },
-      {
-        "label": "Strap",
-        "value": "Detachable, adjustable crossbody strap"
-      },
-      {
-        "label": "Colours",
-        "value": "Cream with red roses (other rose colours on request)"
-      },
-      {
-        "label": "Care",
-        "value": "Spot clean, reshape and air dry"
-      },
-      {
-        "label": "Lead time",
-        "value": "7–10 working days"
-      }
-    ],
-    "features": [
-      "Roses crocheted individually by hand",
-      "Drawstring-style gathered top",
-      "Crossbody or shoulder wear",
-      "Statement piece for events"
-    ],
-    "sizeLabel": "Bag size",
-    "sizes": [
-      "Small (approx. 22 × 17 cm)",
-      "Medium (approx. 26 × 20 cm)",
-      "Large (approx. 32 × 25 cm)"
-    ]
-  },
-  {
-    "id": "heart-bow-keychain",
-    "name": "Heart Bow Keychain",
-    "price": 650,
-    "category": "Keychains",
-    "images": [
-      "/products/p6.jpg"
-    ],
-    "inStock": true,
-    "short": "A tiny cream crochet bow with embroidered pink hearts and a golden ring.",
-    "description": "This dainty crochet bow keychain is stitched in a firm, even fabric so it holds its beautiful shape. Two little pink hearts are embroidered by hand on the bow and tail, and a gold-tone chain and ring finish it off.\nHang it on your keys, backpack or handbag, or tuck it into a gift box. It is small, light and endlessly cute.",
-    "details": [
-      {
-        "label": "Material",
-        "value": "Cotton yarn, gold-tone chain and key ring"
-      },
-      {
-        "label": "Size",
-        "value": "Approx. 12 cm including chain"
-      },
-      {
-        "label": "Colours",
-        "value": "Cream with pink hearts (more colours on request)"
-      },
-      {
-        "label": "Care",
-        "value": "Wipe gently with a damp cloth"
-      },
-      {
-        "label": "Lead time",
-        "value": "1–3 working days"
-      }
-    ],
-    "features": [
-      "Perfect gift or party favour",
-      "Bulk orders welcome",
-      "Matches the Bow Crochet Bag",
-      "Name or colour customisation available"
-    ],
-    "sizeLabel": "",
-    "sizes": []
-  }
+ {
+  "id": "jasmine-gajra-scrunchie-set",
+  "name": "Jasmine Gajra Scrunchie Set",
+  "price": 1500,
+  "category": "Hair Accessories",
+  "images": [
+   "/products/p1.jpg"
+  ],
+  "inStock": true,
+  "short": "Cloud-soft crochet scrunchies inspired by fresh jasmine gajras, finished with hand-stitched green leaves.",
+  "description": "Our Jasmine Gajra Scrunchies capture the beauty of fresh mogra flowers in yarn that never wilts. Every cluster of tiny petals is crocheted by hand, one popcorn stitch at a time, then finished with a tie of deep green leaves.\nThey sit gently on the wrist or wrap a bun, a ponytail or a braid, and look stunning with festive outfits, mehndi functions and Eid. Presented in a woven basket, the set makes a lovely gift.",
+  "details": [
+   {
+    "label": "Material",
+    "value": "Soft premium acrylic-cotton blend yarn"
+   },
+   {
+    "label": "Colours",
+    "value": "Ivory white with green leaves (red rose option on request)"
+   },
+   {
+    "label": "Fits",
+    "value": "Stretchy elastic, suits hair and wrist"
+   },
+   {
+    "label": "Care",
+    "value": "Hand wash cold, dry flat"
+   },
+   {
+    "label": "Lead time",
+    "value": "2–4 working days"
+   }
+  ],
+  "features": [
+   "100% handmade, no two pieces identical",
+   "Lightweight and comfortable all day",
+   "Gift-ready presentation",
+   "Custom colours available"
+  ],
+  "sizeLabel": "Bangle / wrist size",
+  "sizes": [
+   "2.2 (Small)",
+   "2.4 (Medium)",
+   "2.6 (Large)",
+   "2.8 (Extra large)"
+  ]
+ },
+ {
+  "id": "floral-braid-paranda",
+  "name": "Floral Braid Paranda",
+  "price": 900,
+  "category": "Hair Accessories",
+  "images": [
+   "/products/p2.jpg"
+  ],
+  "inStock": true,
+  "short": "A trail of tiny crochet blossoms and a vivid green tassel to dress up any braid.",
+  "description": "Inspired by traditional paranda and floral hair jewellery, this piece weaves delicate white crochet flowers and green buds along the length of your braid, ending in a handmade yarn tassel with pearl detail.\nIt stays light, never pulls on the hair, and adds an instant festive touch to shalwar kameez, lehnga or a simple everyday kurta.",
+  "details": [
+   {
+    "label": "Material",
+    "value": "Fine cotton yarn, pearl beads"
+   },
+   {
+    "label": "Length",
+    "value": "Approx. 18 inches including tassel"
+   },
+   {
+    "label": "Colours",
+    "value": "White blossoms, green leaves and tassel"
+   },
+   {
+    "label": "Care",
+    "value": "Spot clean, keep away from perfume"
+   },
+   {
+    "label": "Lead time",
+    "value": "3–5 working days"
+   }
+  ],
+  "features": [
+   "Perfect for Eid, weddings and mehndi",
+   "Easy to attach with ties",
+   "Tassel colour can be matched to your outfit",
+   "Handmade to order"
+  ],
+  "sizeLabel": "",
+  "sizes": []
+ },
+ {
+  "id": "gajra-bracelet",
+  "name": "Gajra Bracelet",
+  "price": 700,
+  "category": "Jewellery",
+  "images": [
+   "/products/p3.jpg"
+  ],
+  "inStock": true,
+  "short": "A plush, jasmine-inspired crochet bracelet in creamy white, light as a flower.",
+  "description": "This chunky gajra bracelet is built from dozens of tiny textured pom-pom stitches that look just like clustered jasmine buds. It feels soft against the skin and is made with an elastic core, so it slips on easily and stays put.\nWear it alone for a clean, elegant look or stack it with bangles and gold jewellery for festive occasions.",
+  "details": [
+   {
+    "label": "Material",
+    "value": "Soft cotton-blend yarn, elastic core"
+   },
+   {
+    "label": "Size",
+    "value": "Stretches to fit most wrists"
+   },
+   {
+    "label": "Colour",
+    "value": "Cream white with green leaf accent"
+   },
+   {
+    "label": "Care",
+    "value": "Hand wash gently, air dry"
+   },
+   {
+    "label": "Lead time",
+    "value": "2–3 working days"
+   }
+  ],
+  "features": [
+   "Comfortable stretch fit",
+   "Pairs beautifully with bangles",
+   "Light enough for all-day wear",
+   "Makes a thoughtful gift"
+  ],
+  "sizeLabel": "Bangle / wrist size",
+  "sizes": [
+   "2.2 (Small)",
+   "2.4 (Medium)",
+   "2.6 (Large)",
+   "2.8 (Extra large)"
+  ]
+ },
+ {
+  "id": "bow-crochet-bag",
+  "name": "Bow Crochet Shoulder Bag",
+  "price": 3200,
+  "category": "Bags",
+  "images": [
+   "/products/p4.jpg"
+  ],
+  "inStock": true,
+  "short": "A sturdy cream shoulder bag in chunky cotton cord, finished with a berry-coloured bow.",
+  "description": "Made from thick, tightly worked cotton cord, this shoulder bag keeps its shape and carries your daily essentials with ease. The contrasting berry rim and hand-crocheted bow add a quiet pop of colour, and the double rope handles sit comfortably on the shoulder.\nA detachable key ring on the bow lets you clip on a keychain or charm. Wear it with abayas, kurtas or casual outfits.",
+  "details": [
+   {
+    "label": "Material",
+    "value": "Chunky cotton cord"
+   },
+   {
+    "label": "Size",
+    "value": "Approx. 24 cm wide × 22 cm high"
+   },
+   {
+    "label": "Handle drop",
+    "value": "Approx. 28 cm"
+   },
+   {
+    "label": "Colours",
+    "value": "Cream with berry bow (other colours on request)"
+   },
+   {
+    "label": "Care",
+    "value": "Spot clean, do not machine wash"
+   },
+   {
+    "label": "Lead time",
+    "value": "5–7 working days"
+   }
+  ],
+  "features": [
+   "Holds phone, wallet, keys and more",
+   "Strong double handles",
+   "Detachable bow key ring",
+   "Made to order in your colours"
+  ],
+  "sizeLabel": "Bag size",
+  "sizes": [
+   "Small (approx. 20 × 18 cm)",
+   "Medium (approx. 24 × 22 cm)",
+   "Large (approx. 30 × 26 cm)"
+  ]
+ },
+ {
+  "id": "rose-bucket-bag",
+  "name": "Rose Bucket Bag",
+  "price": 3800,
+  "category": "Bags",
+  "images": [
+   "/products/p5.jpg"
+  ],
+  "inStock": true,
+  "short": "A romantic cream bucket bag crowned with a ring of hand-crocheted red roses.",
+  "description": "Our signature Rose Bucket Bag is worked in a rich textured stitch and gathers softly at the top, where a garland of deep red crochet roses and green leaves forms a beautiful floral border.\nIt comes with a long crossbody strap that attaches with silver clasps, so you can wear it on the shoulder or across the body. Dressy enough for dawats and weddings, easy enough for everyday.",
+  "details": [
+   {
+    "label": "Material",
+    "value": "Soft cotton-blend yarn, metal clasps"
+   },
+   {
+    "label": "Size",
+    "value": "Approx. 26 cm wide × 20 cm high"
+   },
+   {
+    "label": "Strap",
+    "value": "Detachable, adjustable crossbody strap"
+   },
+   {
+    "label": "Colours",
+    "value": "Cream with red roses (other rose colours on request)"
+   },
+   {
+    "label": "Care",
+    "value": "Spot clean, reshape and air dry"
+   },
+   {
+    "label": "Lead time",
+    "value": "7–10 working days"
+   }
+  ],
+  "features": [
+   "Roses crocheted individually by hand",
+   "Drawstring-style gathered top",
+   "Crossbody or shoulder wear",
+   "Statement piece for events"
+  ],
+  "sizeLabel": "Bag size",
+  "sizes": [
+   "Small (approx. 22 × 17 cm)",
+   "Medium (approx. 26 × 20 cm)",
+   "Large (approx. 32 × 25 cm)"
+  ]
+ },
+ {
+  "id": "heart-bow-keychain",
+  "name": "Heart Bow Keychain",
+  "price": 650,
+  "category": "Keychains",
+  "images": [
+   "/products/p6.jpg"
+  ],
+  "inStock": true,
+  "short": "A tiny cream crochet bow with embroidered pink hearts and a golden ring.",
+  "description": "This dainty crochet bow keychain is stitched in a firm, even fabric so it holds its beautiful shape. Two little pink hearts are embroidered by hand on the bow and tail, and a gold-tone chain and ring finish it off.\nHang it on your keys, backpack or handbag, or tuck it into a gift box. It is small, light and endlessly cute.",
+  "details": [
+   {
+    "label": "Material",
+    "value": "Cotton yarn, gold-tone chain and key ring"
+   },
+   {
+    "label": "Size",
+    "value": "Approx. 12 cm including chain"
+   },
+   {
+    "label": "Colours",
+    "value": "Cream with pink hearts (more colours on request)"
+   },
+   {
+    "label": "Care",
+    "value": "Wipe gently with a damp cloth"
+   },
+   {
+    "label": "Lead time",
+    "value": "1–3 working days"
+   }
+  ],
+  "features": [
+   "Perfect gift or party favour",
+   "Bulk orders welcome",
+   "Matches the Bow Crochet Bag",
+   "Name or colour customisation available"
+  ],
+  "sizeLabel": "",
+  "sizes": []
+ }
 ]

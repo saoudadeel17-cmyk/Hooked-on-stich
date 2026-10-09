@@ -10,13 +10,15 @@ import { money, waLink } from '../../../lib/site'
 export const dynamic = 'force-dynamic'
 
 export async function generateMetadata({ params }) {
-  const p = (await getProducts()).find((x) => x.id === params.id)
+  const { id } = await params
+  const p = (await getProducts()).find((x) => x.id === id)
   return { title: p ? `${p.name} — Hooked on Stitch` : 'Not found', description: p?.short }
 }
 
 export default async function ProductPage({ params }) {
+  const { id } = await params
   const all = await getProducts()
-  const p = all.find((x) => x.id === params.id)
+  const p = all.find((x) => x.id === id)
   if (!p) notFound()
   const more = all.filter((x) => x.id !== p.id).slice(0, 4)
   return (
